@@ -1,3 +1,5 @@
+:: Suspende la computadora
+
 @echo off
 
 echo Cerrando sesiones y suspendiendo...
